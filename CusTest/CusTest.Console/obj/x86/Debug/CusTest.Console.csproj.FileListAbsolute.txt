@@ -1,0 +1,5 @@
+E:\git\Csharp\CusTest\CusTest.Console\bin\Debug\CusTest.Console.exe
+E:\git\Csharp\CusTest\CusTest.Console\bin\Debug\CusTest.Console.pdb
+E:\git\Csharp\CusTest\CusTest.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\git\Csharp\CusTest\CusTest.Console\obj\x86\Debug\CusTest.Console.exe
+E:\git\Csharp\CusTest\CusTest.Console\obj\x86\Debug\CusTest.Console.pdb
