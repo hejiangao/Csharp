@@ -1,6 +1,10 @@
- <user>
-    <name>BD469C97-9A3E-4F69-AE16-2CD8E1259027</name>
-    <expiry_time>2050-12-30 23:59:59</expiry_time>
-    <num>30</num>
-    <operat_time>2019-08-02 10:12:27</operat_time>
-  </user>
+{
+    "code": 1,
+    "msg": "magna et cillum ad eiusmod",
+    "data": {
+        "enable": true,
+        "name": "改浩辰",
+        "expiry_time": "2025-05-06 14:01:01",
+        "num": 88
+    }
+}
